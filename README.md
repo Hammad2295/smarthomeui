@@ -1,5 +1,30 @@
-# MODERN SMART HOME UI x FLUTTER
+# Modern UI
 
-Watch tutorial here: https://youtu.be/FMV8pbz0sN8
+Featuring a simple and elegant design, creating a visually pleasing and user-friendly experience of Smart Home App.
 
-![C6A307C4-3A35-4CD6-BFB1-63B370A1B07F](https://user-images.githubusercontent.com/29016489/200977277-210b239c-fd92-435e-ad99-0cccd6035afd.JPG)
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/Hammad2295/smarthomeui/master/demo-ss.JPG)
+
+
+## Deployment & Run
+
+To deploy this project first clean it by running:
+
+```bash
+  flutter clean
+```
+
+To rebuild project run:
+
+```bash
+  flutter pub get
+```
+
+To launch application run:
+
+```bash
+  flutter run
+```
+
